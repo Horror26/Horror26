@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello there! I am a front-end web developer with a passion for creating interactive and visually appealing user experiences. Currently, I am working with React JS to build scalable web applications. Along with my expertise in front-end development, I am also eager to expand my knowledge in backend development. I am always on the lookout for exciting projects to collaborate on and participate in hackathons to hone my skills. Let's build something amazing together!
 
+ <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="" srcset="">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#1121) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dj__260) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darshan-jaju-73b237223/) 
