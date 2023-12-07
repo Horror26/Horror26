@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I am a front-end web developer with a passion for creating interactive and visually appealing user experiences. Currently, I am working with React JS to build scalable web applications. Along with my expertise in front-end development, I am also eager to expand my knowledge in backend development. I am always on the lookout for exciting projects to collaborate on and participate in hackathons to hone my skills. Let's build something amazing together!
+Hello there! I am a open source contributor with experience using NextJS and the MERN stack to create full-stack web applications. I have contributed to projects which are live and used by 1000+ students and build an ed-tech platform using MERN STACK with payment gateway integrated I am always on the lookout for exciting projects to collaborate on and participate in hackathons to hone my skills. Let's build something amazing together!
 
  <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="" srcset="">
 
